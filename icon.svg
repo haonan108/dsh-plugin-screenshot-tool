@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Screenshot tool</title>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="#07c160"/>
+  <g fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="20" cy="46" r="6.5"/>
+    <circle cx="44" cy="46" r="6.5"/>
+    <path d="M24.4 41.4 40 14"/>
+    <path d="M39.6 41.4 24 14"/>
+  </g>
+</svg>

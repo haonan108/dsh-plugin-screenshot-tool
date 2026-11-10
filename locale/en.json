@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Screenshot tool",
+    "description": "A screenshot button in the composer toolbar: the window hides for the marquee, the region lands on the clipboard, and ⌘V pastes it into the composer."
+  }
+}
