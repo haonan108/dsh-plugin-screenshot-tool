@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-screenshot-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WeChat-style screenshot button in the DeepSeek Harness composer: native macOS region capture (optionally hiding the window), copied to the clipboard and inserted into the composer as a draft attachment.",
   "type": "module",
   "license": "MIT",

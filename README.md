@@ -42,9 +42,13 @@ degrades to a normal capture.
 dsh plugin add dsh-plugin-screenshot-tool
 ```
 
-Then reload the Web GUI once. From a local checkout instead of npm:
+Then reload the Web GUI once. Other ways to install it:
 
 ```sh
+# straight from the repository (works even when a registry mirror lags behind)
+dsh plugin add https://github.com/haonan108/dsh-plugin-screenshot-tool
+
+# from a local checkout
 dsh plugin add /absolute/path/to/dsh-plugin-screenshot-tool
 ```
 
